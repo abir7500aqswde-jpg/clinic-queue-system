@@ -1,0 +1,9 @@
+{
+  "doctors": [
+    { "id": "d1", "name": "Dr. Ayesha Rahman", "department": "General Medicine", "avgMinutesPerPatient": 8 },
+    { "id": "d2", "name": "Dr. Kamal Hossain", "department": "Dental", "avgMinutesPerPatient": 12 },
+    { "id": "d3", "name": "Dr. Nusrat Jahan", "department": "Pediatrics", "avgMinutesPerPatient": 6 }
+  ],
+  "tickets": [],
+  "nextTicketNumber": 1
+}
